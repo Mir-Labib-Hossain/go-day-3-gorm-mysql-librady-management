@@ -1,4 +1,4 @@
-module day-3-gorm-mysql-librady-management
+module github.com/Mir-Labib-Hossain/day-3-gorm-mysql-librady-management
 
 go 1.22.2
 
